@@ -1,0 +1,453 @@
+{
+    "taxis": [],
+    "servicios": [
+        {
+            "hora_asignacion": "2024-11-20T23:09:15Z",
+            "taxi_id": 1,
+            "usuario_posicion": {
+                "x": 3,
+                "y": 5
+            },
+            "taxi_posicion": {
+                "x": 6,
+                "y": 5
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-20T23:09:16Z",
+            "taxi_id": 1,
+            "usuario_posicion": {
+                "x": 5,
+                "y": 8
+            },
+            "taxi_posicion": {
+                "x": 5,
+                "y": 5
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-20T23:09:19Z",
+            "taxi_id": 1,
+            "usuario_posicion": {
+                "x": 7,
+                "y": 5
+            },
+            "taxi_posicion": {
+                "x": 6,
+                "y": 6
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-20T23:16:58Z",
+            "taxi_id": 10,
+            "usuario_posicion": {
+                "x": 3,
+                "y": 0
+            },
+            "taxi_posicion": {
+                "x": 3,
+                "y": 3
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-20T23:16:59Z",
+            "taxi_id": 10,
+            "usuario_posicion": {
+                "x": 8,
+                "y": 1
+            },
+            "taxi_posicion": {
+                "x": 3,
+                "y": 4
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-20T23:17:00Z",
+            "taxi_id": 10,
+            "usuario_posicion": {
+                "x": 1,
+                "y": 3
+            },
+            "taxi_posicion": {
+                "x": 4,
+                "y": 4
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T01:35:12Z",
+            "taxi_id": 3,
+            "usuario_posicion": {
+                "x": 8,
+                "y": 2
+            },
+            "taxi_posicion": {
+                "x": 7,
+                "y": 3
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T01:35:13Z",
+            "taxi_id": 3,
+            "usuario_posicion": {
+                "x": 6,
+                "y": 4
+            },
+            "taxi_posicion": {
+                "x": 7,
+                "y": 4
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T01:35:14Z",
+            "taxi_id": 3,
+            "usuario_posicion": {
+                "x": 1,
+                "y": 7
+            },
+            "taxi_posicion": {
+                "x": 8,
+                "y": 4
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T01:35:25Z",
+            "taxi_id": 3,
+            "usuario_posicion": {
+                "x": 1,
+                "y": 7
+            },
+            "taxi_posicion": {
+                "x": 7,
+                "y": 7
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T01:35:28Z",
+            "taxi_id": 3,
+            "usuario_posicion": {
+                "x": 2,
+                "y": 5
+            },
+            "taxi_posicion": {
+                "x": 7,
+                "y": 7
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T01:35:29Z",
+            "taxi_id": 3,
+            "usuario_posicion": {
+                "x": 5,
+                "y": 1
+            },
+            "taxi_posicion": {
+                "x": 8,
+                "y": 7
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T01:37:33Z",
+            "taxi_id": 10,
+            "usuario_posicion": {
+                "x": 9,
+                "y": 1
+            },
+            "taxi_posicion": {
+                "x": 4,
+                "y": 8
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T01:37:36Z",
+            "taxi_id": 10,
+            "usuario_posicion": {
+                "x": 6,
+                "y": 8
+            },
+            "taxi_posicion": {
+                "x": 5,
+                "y": 9
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T01:37:37Z",
+            "taxi_id": 10,
+            "usuario_posicion": {
+                "x": 1,
+                "y": 1
+            },
+            "taxi_posicion": {
+                "x": 5,
+                "y": 8
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T02:42:24Z",
+            "taxi_id": 1,
+            "usuario_posicion": {
+                "x": 6,
+                "y": 0
+            },
+            "taxi_posicion": {
+                "x": 4,
+                "y": 2
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T02:42:25Z",
+            "taxi_id": 1,
+            "usuario_posicion": {
+                "x": 4,
+                "y": 3
+            },
+            "taxi_posicion": {
+                "x": 3,
+                "y": 2
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T02:42:26Z",
+            "taxi_id": 1,
+            "usuario_posicion": {
+                "x": 4,
+                "y": 4
+            },
+            "taxi_posicion": {
+                "x": 3,
+                "y": 1
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T15:34:30Z",
+            "taxi_id": 1,
+            "usuario_posicion": {
+                "x": 0,
+                "y": 1
+            },
+            "taxi_posicion": {
+                "x": 6,
+                "y": 3
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T15:34:31Z",
+            "taxi_id": 1,
+            "usuario_posicion": {
+                "x": 6,
+                "y": 3
+            },
+            "taxi_posicion": {
+                "x": 6,
+                "y": 2
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T15:34:32Z",
+            "taxi_id": 1,
+            "usuario_posicion": {
+                "x": 5,
+                "y": 3
+            },
+            "taxi_posicion": {
+                "x": 7,
+                "y": 2
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T16:06:35Z",
+            "taxi_id": 5,
+            "usuario_posicion": {
+                "x": 6,
+                "y": 1
+            },
+            "taxi_posicion": {
+                "x": 7,
+                "y": 7
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T16:06:36Z",
+            "taxi_id": 5,
+            "usuario_posicion": {
+                "x": 3,
+                "y": 7
+            },
+            "taxi_posicion": {
+                "x": 7,
+                "y": 6
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T16:06:39Z",
+            "taxi_id": 5,
+            "usuario_posicion": {
+                "x": 4,
+                "y": 2
+            },
+            "taxi_posicion": {
+                "x": 6,
+                "y": 5
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T16:37:43Z",
+            "taxi_id": 5,
+            "usuario_posicion": {
+                "x": 8,
+                "y": 5
+            },
+            "taxi_posicion": {
+                "x": 6,
+                "y": 1
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T16:37:44Z",
+            "taxi_id": 5,
+            "usuario_posicion": {
+                "x": 9,
+                "y": 3
+            },
+            "taxi_posicion": {
+                "x": 5,
+                "y": 1
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T16:37:47Z",
+            "taxi_id": 5,
+            "usuario_posicion": {
+                "x": 1,
+                "y": 6
+            },
+            "taxi_posicion": {
+                "x": 7,
+                "y": 1
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T17:06:52Z",
+            "taxi_id": 2,
+            "usuario_posicion": {
+                "x": 0,
+                "y": 4
+            },
+            "taxi_posicion": {
+                "x": 2,
+                "y": 8
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T17:16:16Z",
+            "taxi_id": 1,
+            "usuario_posicion": {
+                "x": 7,
+                "y": 0
+            },
+            "taxi_posicion": {
+                "x": 1,
+                "y": 5
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T17:25:08Z",
+            "taxi_id": 1,
+            "usuario_posicion": {
+                "x": 2,
+                "y": 2
+            },
+            "taxi_posicion": {
+                "x": 4,
+                "y": 2
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T17:25:15Z",
+            "taxi_id": 1,
+            "usuario_posicion": {
+                "x": 0,
+                "y": 3
+            },
+            "taxi_posicion": {
+                "x": 3,
+                "y": 1
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T17:26:34Z",
+            "taxi_id": 1,
+            "usuario_posicion": {
+                "x": 7,
+                "y": 6
+            },
+            "taxi_posicion": {
+                "x": 0,
+                "y": 3
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T17:26:45Z",
+            "taxi_id": 1,
+            "usuario_posicion": {
+                "x": 0,
+                "y": 1
+            },
+            "taxi_posicion": {
+                "x": 1,
+                "y": 3
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T17:30:23Z",
+            "taxi_id": 1,
+            "usuario_posicion": {
+                "x": 5,
+                "y": 5
+            },
+            "taxi_posicion": {
+                "x": 8,
+                "y": 6
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T17:31:17Z",
+            "taxi_id": 1,
+            "usuario_posicion": {
+                "x": 9,
+                "y": 9
+            },
+            "taxi_posicion": {
+                "x": 3,
+                "y": 1
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T17:39:05Z",
+            "taxi_id": 1,
+            "usuario_posicion": {
+                "x": 4,
+                "y": 4
+            },
+            "taxi_posicion": {
+                "x": 5,
+                "y": 3
+            }
+        },
+        {
+            "hora_asignacion": "2024-11-21T17:40:30Z",
+            "taxi_id": 1,
+            "usuario_posicion": {
+                "x": 0,
+                "y": 2
+            },
+            "taxi_posicion": {
+                "x": 6,
+                "y": 7
+            }
+        }
+    ],
+    "estadisticas": {
+        "servicios_satisfactorios": 37,
+        "servicios_negados": 0
+    }
+}
